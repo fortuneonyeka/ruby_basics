@@ -82,9 +82,9 @@ RSpec.describe 'Array Exercises' do
     end
   end
 
-  describe 'array concatenation exercise' do
+  describe 'array concatenation exercises' do
 
-    it 'returns an array adding two arrays of numbers together' do
+    it 'returns an array of adding two arrays of numbers together' do
       expect(array_concatenation([1, 3, 5], [2, 4, 6])).to eq([1, 3, 5, 2, 4, 6])
     end
 
