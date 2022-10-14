@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../exercises/hash_exercises'
+require_relative '../exercises/hashes_exercises.rb'
 
 RSpec.describe 'Hash Exercises' do
   describe 'create favorite hash exercise' do
